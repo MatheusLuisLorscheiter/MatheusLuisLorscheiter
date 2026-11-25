@@ -15,6 +15,10 @@ I build and operate software products that connect business processes, communica
 
 Commercial source code is kept private. Public repositories are intended for independent experiments, documentation and reusable examples.
 
+## Engineering portfolio
+
+Explore [independent engineering notes and practical labs](portfolio/README.md) covering infrastructure, SaaS architecture and automation. These are educational examples, not commercial product source code.
+
 ## Technical focus
 
 | Area | Technologies and practices |
