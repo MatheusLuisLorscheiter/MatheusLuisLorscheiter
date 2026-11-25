@@ -1,16 +1,43 @@
-## Hi there 👋
+# Matheus Luis Lorscheiter
 
-<!--
-**MatheusLuisLorscheiter/MatheusLuisLorscheiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder at Chave Mestra Gestão · SaaS · Infrastructure · Automation**
 
-Here are some ideas to get you started:
+Brazil · [Chave Mestra Gestão](https://chavemestragestao.com.br) · [CloudWhats](https://cloudwhats.app.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and operate software products that connect business processes, communication channels and technology. My work spans application development, infrastructure operations, system integration and automation.
+
+## Featured work
+
+| Product | Focus |
+| --- | --- |
+| [CloudWhats](https://cloudwhats.app.br) | Omnichannel customer service, CRM, business automation and AI-assisted workflows. |
+| [Chave Mestra Gestão](https://chavemestragestao.com.br) | Business technology, systems integration and digital solutions. |
+
+Commercial source code is kept private. Public repositories are intended for independent experiments, documentation and reusable examples.
+
+## Technical focus
+
+| Area | Technologies and practices |
+| --- | --- |
+| Software engineering | TypeScript, React, Next.js, Java, Spring Boot |
+| Infrastructure & DevOps | Linux, Docker, AWS, EasyPanel, CI/CD |
+| Backend & data | PostgreSQL, Redis, REST APIs, multi-tenant applications |
+| Automation & AI | n8n, MCP, LLM integrations, workflow automation |
+
+I focus on maintainable systems, operational reliability and practical business outcomes.
+
+---
+
+## Sobre mim · Português
+
+Sou fundador da Chave Mestra Gestão e atuo no desenvolvimento e na operação de produtos SaaS, infraestrutura de TI, integração de sistemas e automação de processos empresariais.
+
+Meu foco é transformar necessidades de negócio em soluções digitais úteis, sustentáveis e seguras, conectando engenharia de software à operação real das empresas.
+
+**Áreas de atuação:** desenvolvimento web e backend, infraestrutura e DevOps, bancos de dados, integrações, automação e inteligência artificial aplicada.
+
+## Contato / Contact
+
+- [Chave Mestra Gestão](https://chavemestragestao.com.br)
+- [CloudWhats](https://cloudwhats.app.br)
+- [Instagram · Chave Mestra Gestão](https://www.instagram.com/chavemestragestao/)
